@@ -1,0 +1,3 @@
+/home/william/Documents/CG/atividade3/ex2/CMakeFiles/SolarSystem.dir
+/home/william/Documents/CG/atividade3/ex2/CMakeFiles/edit_cache.dir
+/home/william/Documents/CG/atividade3/ex2/CMakeFiles/rebuild_cache.dir
